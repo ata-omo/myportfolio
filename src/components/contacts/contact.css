@@ -1,0 +1,91 @@
+.c{
+    height: 100vh;
+    position: relative;
+}
+
+.c-bg{
+    height: 100%;
+    clip-path: polygon(0% 0%, 10% 0, 27% 66%, 13% 100%, 0% 100%);
+    background: url("https://images.pexels.com/photos/6747049/pexels-photo-6747049.jpeg?auto=compress&cs=tinysrgb&w=1600");
+
+    width: 20%;
+    border-radius: 2%;
+    align-content: start;
+    position: absolute;
+}
+
+.c-wrapper{
+    padding: 90px;
+    display: flex;
+
+}
+
+.c-left{
+    flex: 1;
+}
+
+.c-right{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.c-title{
+    font-size: 60px;
+    width: 70%;
+}
+
+.info-item{
+    display: flex;
+    align-items: center;
+    margin: 50px 50px;
+    font-weight: 300;
+    width: 70%;
+}
+
+.c-icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+
+}
+
+.c-desc{
+    font-weight: 200;
+}
+
+form{
+    margin-top: 20px;
+
+}
+
+input{
+    width: 50%;
+    height: 50px;
+    border: none;
+    /* border-left: 1px solid gray ; */
+    border-bottom: 1px solid rgb(103, 97, 97) ;
+    border-radius: 3%;
+    margin: 10px 0px;
+    font-size: 14px;
+    padding-left: 25px;
+    /* color: rgba(52, 52, 52, 0.475); */
+}
+
+textarea{
+    width: 100%;
+    margin: 10px 0px;
+    font-size: 14px;
+    padding-left: 25px;
+    border-radius: 3%;
+}
+
+button{
+    border: rgb(78, 84, 77);
+    background-color: rgb(186, 192, 19);
+    color: rgb(8, 8, 8);
+    font-weight: 500;
+    cursor: pointer;
+}
