@@ -8,4 +8,4 @@
 
 * Clone the repo 
 
-* Then just run "npm start" inside the project folder on your terminal and it's good to go.
+* Then just run "npm start" inside the project folder on your terminal and your'e good to go.
