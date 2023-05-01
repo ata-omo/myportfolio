@@ -2,7 +2,7 @@
 
 * It is a simple portfolio website created using React, Javascript, HTML and CSS
 
-* Implemented some awesome CSS design like awesome hover effects , dark mode , responsiveness and many more.
+* Implemented some awesome CSS design with React like awesome hover effects , dark mode , responsiveness and many more.
 
 * Every dependency is already been provided 
 
