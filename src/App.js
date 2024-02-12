@@ -7,7 +7,7 @@ import ProjectList from './components/projectlist/ProjectList';
 import Contact from './components/contacts/Contact';
 import Toggle from './components/toggle/Toggle';
 import { useContext } from 'react';
-import { ThemeContext } from './Context';
+import { ThemeContext } from './Context.js';
 
 
 function App() {

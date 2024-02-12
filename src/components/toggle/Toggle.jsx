@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import "./toggle.css"
 import dark from "../../img/dark.png"
 import light from "../../img/light.png"
-import { ThemeContext } from '../../Context'
+import { ThemeContext } from '../../Context.js'
 
 function Toggle() {
 

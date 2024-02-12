@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c64a6897.css",
+    "main.js": "/static/js/main.92c3d188.js",
+    "static/media/background-char.png": "/static/media/background-char.454e93220c0ab01cfb03.png",
+    "static/media/ibg.png": "/static/media/ibg.45fd284fa5d0d950e5a7.png",
+    "static/media/hitk-logo.png": "/static/media/hitk-logo.546218880fb24f50098e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/mail.svg": "/static/media/mail.eca7d79f59eff45870f33fcd9c5a0e1b.svg",
+    "index.html": "/index.html",
+    "main.c64a6897.css.map": "/static/css/main.c64a6897.css.map",
+    "main.92c3d188.js.map": "/static/js/main.92c3d188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64a6897.css",
+    "static/js/main.92c3d188.js"
+  ]
+}

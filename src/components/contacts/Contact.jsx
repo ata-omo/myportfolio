@@ -4,7 +4,7 @@ import "./contact.css"
 import contact from "../../img/contact.png"
 import mail from "../../img/mail.svg"
 import add from "../../img/add.png"
-import { ThemeContext } from '../../Context';
+import { ThemeContext } from '../../Context.js';
 
 
 function Contact() {
